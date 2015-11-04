@@ -1,0 +1,19 @@
+  NAME				VALUE	DAMAGE	EFFECT
+---Weapon-------------------------------------
+Long Sword			50		10
+Two Handed Sword	100		25
+War Hammer			150		35
+Staff				150		40
+
+---Armor--------------------------------------
+Leather Armor		25		-5
+Bronze Armor		35		-10
+Iron Armor			50		-20
+Diamond Armor		100		-55
+
+---Potions------------------------------------
+Small HP potion		5				+25 HP
+Big HP potion		10				+50 HP
+Huge HP potion		50				+100 HP
+
+Bomb				13
